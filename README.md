@@ -1,0 +1,1 @@
+# nipshot-support
